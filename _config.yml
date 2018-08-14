@@ -27,3 +27,5 @@ plugins:
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
+
+date:          %Y-%m-%d
