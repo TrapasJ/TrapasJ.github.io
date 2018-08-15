@@ -1,12 +1,12 @@
 # Site settings
 title:          trapasJ
 baseurl:        ""
-url:            "https://trapasJ.com"
+url:            "http://trapasJ.com"
 
 # Author
 author:
   name:         trapasJ
-  url:          https://trapasJ.com
+  url:          http://trapasJ.com
   email:        wlsdnrtm123@gmail.com
   github:       trapasJ
 
