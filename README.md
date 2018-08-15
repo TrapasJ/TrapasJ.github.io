@@ -1,5 +1,5 @@
 # My portfolio site based on blog.
-blog: http://trapasj.github.io/
+blog: {{site.author.url}}
 
 ![image](https://trapasj.github.io/assets/domain-img.png)
 
