@@ -1,14 +1,14 @@
 # Site settings
-title:          trapasJ developer
-description:    trapasJ development report
+title:          trapasJ
 baseurl:        ""
-url:            "https://trapasJ.github.io"
+url:            "https://trapasJ.com"
 
 # Author
 author:
   name:         trapasJ
-  url:          https://trapasJ.github.io
+  url:          https://trapasJ.com
   email:        wlsdnrtm123@gmail.com
+  github:       trapasJ
 
 # Build settings
 markdown:       kramdown
@@ -28,3 +28,7 @@ plugins:
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
+
+# Custom
+github:
+  repo:         https://github.com/trapasJ/trapasJ.github.io
