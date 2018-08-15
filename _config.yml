@@ -1,6 +1,6 @@
 # Site settings
-title:          trapasJ Report
-description:    "trapasJ development report"
+title:          trapasJ developer
+description:    trapasJ development report
 baseurl:        ""
 url:            "https://trapasJ.github.io"
 
@@ -12,6 +12,7 @@ author:
 
 # Build settings
 markdown:       kramdown
+highlighter:    rouge
 
 # Assets
 sass:
