@@ -1,12 +1,12 @@
 # Site settings
-title:          TrapasJ Report
-description:    "TrapasJ development report"
+title:          trapasJ Report
+description:    "trapasJ development report"
 baseurl:        ""
 url:            "https://trapasJ.github.io"
 
 # Author
 author:
-  name:         TrapasJ
+  name:         trapasJ
   url:          https://trapasJ.github.io
   email:        wlsdnrtm123@gmail.com
 
